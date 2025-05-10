@@ -1,0 +1,12 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.test
+*.out
+
+__debug*
+
+.env
+bin/
+tmp/
